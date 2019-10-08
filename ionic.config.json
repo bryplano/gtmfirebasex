@@ -1,5 +1,7 @@
 {
   "name": "GTMFirebase",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
